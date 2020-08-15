@@ -33,4 +33,4 @@
 [instagram]: https://www.instagram.com/moh_it4/
 [linkedin]: https://www.linkedin.com/in/mohit-yadav-9a4745199/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[Gmail]: 04mohit97@gmail.com
+[Gmail]: https://mail.google.com/mail/u/04mohit97@gmail.com
