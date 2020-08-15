@@ -11,6 +11,9 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+### Quote
+<img src="https://www.pictorem.com/collection/900_Artistic-Paradigms_Stay%20Focused%20Stay%20Humble.jpg"  height="" width="350" />
+
 ### Connect with me:
 
 
