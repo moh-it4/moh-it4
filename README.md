@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Mohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mohit | Mail" width="20px" src="https://cdn.onlinewebfonts.com/svg/img_435938.png" />][Gmail]
+[<img align="bottom" alt="Mohit | Mail" width="24px" src="https://cdn.onlinewebfonts.com/svg/img_435938.png" />][Gmail]
 
 
 <br />
