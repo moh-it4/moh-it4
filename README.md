@@ -19,6 +19,8 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" />][Gmail]
+
 
 <br />
 
@@ -31,3 +33,4 @@
 [instagram]: https://www.instagram.com/moh_it4/
 [linkedin]: https://www.linkedin.com/in/mohit-yadav-9a4745199/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[Gmail]: 04mohit97@gmail.com
